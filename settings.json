@@ -1,0 +1,17 @@
+{
+  "git.autofetch": true,
+  "editor.rulers": [80, 120],
+  "python.linting.enabled": true,
+  "python.linting.pycodestyleEnabled": true,
+  "python.formatting.provider": "autopep8",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "window.zoomLevel": 0,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "html.format.indentInnerHtml": true,
+  "html.format.indentHandlebars": true
+}

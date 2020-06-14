@@ -1,0 +1,9 @@
+1. git init
+2. git remote add origin https://github.com/satrialearning/jakarta_labs_workshops.git
+3. git add .
+4. git config user.name satrialearning
+5. git config user.email satriawicaksanaadhipurusa@hotmail.com
+6. git status
+7. git commit -m "first commit"
+8. git log
+9. git push -u origin master

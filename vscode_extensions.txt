@@ -1,0 +1,7 @@
+GitLens
+HTML CSS Support
+Auto Close Tag
+Prettier
+Python
+Visual Studio IntelliCode
+YAML
